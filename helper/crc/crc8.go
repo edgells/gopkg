@@ -1,4 +1,4 @@
-package main
+package crc
 
 const (
 	firstPadding  = 0xFF

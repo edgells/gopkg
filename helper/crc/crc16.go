@@ -1,4 +1,4 @@
-package main
+package crc
 
 import (
 	"encoding/hex"
